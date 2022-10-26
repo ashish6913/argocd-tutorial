@@ -6,7 +6,7 @@ metadata:
 spec:
   destination:
     namespace: bgd
-    server: https://console-openshift-console.apps.xnkpeyx0.canadacentral.aroapp.io/
+    server: https://api.xnkpeyx0.canadacentral.aroapp.io:6443
   project: default
   source:
     path: apps/bgd/overlays/bgd
